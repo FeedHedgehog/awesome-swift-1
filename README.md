@@ -31,3 +31,6 @@
 
 ##加密
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 纯 swift 编写的强大的加密扩展，支持多种算法
+
+##SQLite
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - 线程安全的 SQLite3 数据库操作库
