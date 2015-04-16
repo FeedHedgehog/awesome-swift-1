@@ -1,6 +1,14 @@
 #令人惊艳的 swift 库汇总
 令人惊艳的 swift 库汇总，欢迎投稿
 
+##炫酷项目
+
+* [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ)
+
+##学习资料
+
+* [《Auto Layout 使用心得》](http://lvwenhan.com/ios/430.html) 代码示例：https://github.com/johnlui/AutoLayout
+
 ##网络操作
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 强大的 HTTP 请求库
@@ -19,7 +27,7 @@
 
 * [SwiftColors](https://github.com/thii/SwiftColors) - UIColor 的十六进制颜色扩展 (#999999)
 * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - FontAwesome 库
-* [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - 简单地显示各类提示
+* [SwiftNotice](https://github.com/johnlui/SwiftNotice) - 弹出提示及“菊花会动”组件，纯代码绘制
 
 ##文件操作
 
